@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+	
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+<!--     <com.google.android.maps.MapView
+        xmlns:android="http://schemas.adroid.com/apk/res/android"
+        android:id="@+id/mapview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:apiKey="0x-D5iZhiy4Nn8yjvihySxHxkcqqJamwQK_Fp_w"
+        /> -->
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Retrieve Location" />
+
+</LinearLayout>
